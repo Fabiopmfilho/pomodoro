@@ -27,6 +27,11 @@ This is a Pomodoro clock project developed in TypeScript. Pomodoro is a time man
 - To adjust the duration of the Pomodoro, modify the `initialDuration` constant in the `PomodoroTimer.tsx` file.
 - To change the visual style of the circular timer, refer to the documentation of the `react-countdown-circle-timer` library.
 
+## Next steps
+
+- Add timer duration customization.
+- Add a task list with a checkbox for completed tasks.
+
 ## Contribution
 
 Contributions are welcome! Feel free to open issues and pull requests to suggest improvements, fixes, or add new features.
